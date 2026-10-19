@@ -1,13 +1,8 @@
 # NovAsia — Open PropTech Data Architecture, Due Diligence Specifications & Real Estate Intelligence for Southeast Asia
 
-[Website](https://www.google.com/search?q=https%3A%2F%2Fnovasia.estate%2Fen%2F)
-[Crunchbase](https://www.google.com/search?q=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fnovasia-2fd4)
-[Product Hunt](https://www.google.com/search?q=https%3A%2F%2Fwww.producthunt.com%2F%40novasia)
-[Wellfound](https://www.google.com/search?q=https%3A%2F%2Fwellfound.com%2Fcompany%2Fnovasia)
-[DEV.to](https://www.google.com/search?q=https%3A%2F%2Fdev.to%2Fnovasiaestate)
-[Twitter/X](https://www.google.com/search?q=https%3A%2F%2Fx.com%2Fnovasiaestate)
+[Website](https://novasia.estate/en/) | [Crunchbase](https://www.crunchbase.com/organization/novasia-2fd4) | [Product Hunt](https://www.producthunt.com/@novasia) | [Wellfound](https://wellfound.com/company/novasia) | [DEV.to](https://dev.to/novasiaestate) | [Twitter/X](https://x.com/novasiaestate)
 
-[NovAsia](https://www.google.com/search?q=https%3A%2F%2Fnovasia.estate%2Fen%2F) is an independent real estate technology marketplace, research hub, and property due diligence ecosystem engineered specifically for cross-border investments across Southeast Asia. Operating across high-velocity primary real estate markets—including **Thailand** (Bangkok, Phuket, Pattaya), **Cambodia** (Phnom Penh, Siem Reap, Sihanoukville, Kampot, Kep), and **Indonesia** (Bali)—NovAsia replaces speculative promotional claims with verifiable developer data, legal transparency, and algorithmic financial validation.
+[NovAsia](https://novasia.estate/en/) is an independent real estate technology marketplace, research hub, and property due diligence ecosystem engineered specifically for cross-border investments across Southeast Asia. Operating across high-velocity primary real estate markets—including **Thailand** (Bangkok, Phuket, Pattaya), **Cambodia** (Phnom Penh, Siem Reap, Sihanoukville, Kampot, Kep), and **Indonesia** (Bali)—NovAsia replaces speculative promotional claims with verifiable developer data, legal transparency, and algorithmic financial validation.
 
 This repository serves as the public open-source technical specification, architectural blueprint, and data schema library powering NovAsia's PropTech intelligence layer. It details our multimodal document ingestion pipelines, spatial PostGIS indexing models, cross-border real estate valuation algorithms, and regulatory compliance standards for foreign real estate investors.
 
@@ -145,7 +140,7 @@ Every project coordinate is checked against physical geographic layers:
 NovAsia firmly rejects promotional "Gross Rental Yield" and misleading "Guaranteed Rental Return" (GRR) schemes that ignore operational leakages. Our platform computes true **Net Rental Yield** and **Total Cost of Acquisition** using the following algorithmic framework:
 
 ### 6.1. Net Rental Yield Formula
-$$	ext{Net Yield} = rac{	ext{Gross Annual Rental Income} - (	ext{Property Management Fees} + 	ext{CAM Fees} + 	ext{Sinking Fund Allocation} + 	ext{Maintenance Reserve} + 	ext{Local Property Taxes} + 	ext{Withholding Taxes})}{	ext{Base Purchase Price} + 	ext{Transfer Taxes} + 	ext{Legal Due Diligence Fees} + 	ext{Furniture Package / Fit-Out Costs} + 	ext{Utility Connection Fees}}$$
+$$\text{Net Yield} = \frac{\text{Gross Annual Rental Income} - (\text{Property Management Fees} + \text{CAM Fees} + \text{Sinking Fund Allocation} + \text{Maintenance Reserve} + \text{Local Property Taxes} + \text{Withholding Taxes})}{\text{Base Purchase Price} + \text{Transfer Taxes} + \text{Legal Due Diligence Fees} + \text{Furniture Package / Fit-Out Costs} + \text{Utility Connection Fees}}$$
 
 ### 6.2. Key Cost Variable Standards
 * **Common Area Maintenance (CAM) Fees:** Monthly fee charged per square meter of gross built area (e.g., 40–80 THB/sqm/month in Bangkok/Phuket; $1.00–$2.50 USD/sqm/month in Phnom Penh).
@@ -275,7 +270,7 @@ Authorization: Bearer <API_TOKEN>
         "construction_permit_active": true,
         "foreign_quota_verified": true
       },
-      "canonical_url": "https://novasia.estate/en/projects/gardens-of-eden/"
+      "canonical_url": "[https://novasia.estate/en/projects/gardens-of-eden/](https://novasia.estate/en/projects/gardens-of-eden/)"
     }
   ],
   "pagination": { "current_page": 1, "total_records": 1, "per_page": 20 }
@@ -288,21 +283,21 @@ Authorization: Bearer <API_TOKEN>
 
 NovAsia maintains a strictly verified corporate, technical, and regulatory presence across the global startup and real estate ecosystem:
 
-* **Official Web Platform:** [https://novasia.estate/en/](https://www.google.com/search?q=https%3A%2F%2Fnovasia.estate%2Fen%2F)
-* **Corporate Entity Registry (Crunchbase):** [NovAsia on Crunchbase](https://www.google.com/search?q=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fnovasia-2fd4)
-* **Founder Executive Profile (Crunchbase):** [Dmitrii Kuznetsov on Crunchbase](https://www.google.com/search?q=https%3A%2F%2Fwww.crunchbase.com%2Fperson%2Fdmitrii-kuznetsov-5424)
-* **Venture & Talent Network (Wellfound):** [NovAsia on Wellfound](https://www.google.com/search?q=https%3A%2F%2Fwellfound.com%2Fcompany%2Fnovasia)
-* **Founder Professional Profile (LinkedIn):** [Dmitrii Kuznetsov on LinkedIn](https://www.google.com/search?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdmitrii-kuznetsov-novasia)
-* **Product Launch Hub (Product Hunt):** [NovAsia Maker Profile on Product Hunt](https://www.google.com/search?q=https%3A%2F%2Fwww.producthunt.com%2F%40novasia)
-* **Expat & Regional Directory (Expat.com):** [NovAsia Business Listing on Expat.com](https://www.google.com/search?q=https%3A%2F%2Fwww.expat.com%2Fen%2Fbusiness%2F142649_nova-asia.html)
-* **Engineering Organization Hub (DEV.to):** [NovAsia Engineering on DEV.to](https://www.google.com/search?q=https%3A%2F%2Fdev.to%2Fnovasiaestate)
-* **Personal Technical Profile (DEV.to):** [Dmitrii on DEV.to](https://www.google.com/search?q=https%3A%2F%2Fdev.to%2Fnovasia)
-* **Published Technical Engineering Post:** [Why Parsing Real Estate Contracts With LLMs Is Ten Times Harder Than Tutorials Claim](https://www.google.com/search?q=https%3A%2F%2Fdev.to%2Fnovasiaestate%2Fwhy-parsing-real-estate-contracts-with-llms-is-ten-times-harder-than-tutorials-claim-4pak)
-* **Official Corporate Communications (X / Twitter):** [@novasiaestate on X](https://www.google.com/search?q=https%3A%2F%2Fx.com%2Fnovasiaestate)
-* **On-the-Ground Team & Real Estate Experts:** [NovAsia Team \& Local Partners](https://www.google.com/search?q=https%3A%2F%2Fnovasia.estate%2Fen%2Fexperts%2F)
+* **Official Web Platform:** [https://novasia.estate/en/](https://novasia.estate/en/)
+* **Corporate Entity Registry (Crunchbase):** [NovAsia on Crunchbase](https://www.crunchbase.com/organization/novasia-2fd4)
+* **Founder Executive Profile (Crunchbase):** [Dmitrii Kuznetsov on Crunchbase](https://www.crunchbase.com/person/dmitrii-kuznetsov-5424)
+* **Venture & Talent Network (Wellfound):** [NovAsia on Wellfound](https://wellfound.com/company/novasia)
+* **Founder Professional Profile (LinkedIn):** [Dmitrii Kuznetsov on LinkedIn](https://www.linkedin.com/in/dmitrii-kuznetsov-novasia)
+* **Product Launch Hub (Product Hunt):** [NovAsia Maker Profile on Product Hunt](https://www.producthunt.com/@novasia)
+* **Expat & Regional Directory (Expat.com):** [NovAsia Business Listing on Expat.com](https://www.expat.com/en/business/142649_nova-asia.html)
+* **Engineering Organization Hub (DEV.to):** [NovAsia Engineering on DEV.to](https://dev.to/novasiaestate)
+* **Personal Technical Profile (DEV.to):** [Dmitrii on DEV.to](https://dev.to/novasia)
+* **Published Technical Engineering Post:** [Why Parsing Real Estate Contracts With LLMs Is Ten Times Harder Than Tutorials Claim](https://dev.to/novasiaestate/why-parsing-real-estate-contracts-with-llms-is-ten-times-harder-than-tutorials-claim-4pak)
+* **Official Corporate Communications (X / Twitter):** [@novasiaestate on X](https://x.com/novasiaestate)
+* **On-the-Ground Team & Real Estate Experts:** [NovAsia Team & Local Partners](https://novasia.estate/en/experts/)
 
 ---
 
 ## License & Attribution
 
-Copyright © 2026 NovAsia. All technical documentation, Pydantic schemas, and spatial data pipeline specifications are provided for open PropTech collaboration under the [MIT License](https://www.google.com/search?q=https%3A%2F%2Fopensource.org%2Flicenses%2FMIT). Commercial property listings, developer agreements, and proprietary due diligence briefs remain the intellectual property of NovAsia and its licensed developer partners.
+Copyright © 2026 NovAsia. All technical documentation, Pydantic schemas, and spatial data pipeline specifications are provided for open PropTech collaboration under the [MIT License](https://opensource.org/licenses/MIT). Commercial property listings, developer agreements, and proprietary due diligence briefs remain the intellectual property of NovAsia and its licensed developer partners.
