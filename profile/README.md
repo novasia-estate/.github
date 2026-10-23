@@ -295,7 +295,7 @@ NovAsia maintains a strictly verified corporate, technical, and regulatory prese
 * **Published Technical Engineering Post:** [Why Parsing Real Estate Contracts With LLMs Is Ten Times Harder Than Tutorials Claim](https://dev.to/novasiaestate/why-parsing-real-estate-contracts-with-llms-is-ten-times-harder-than-tutorials-claim-4pak)
 * **Official Corporate Communications (X / Twitter):** [@novasiaestate on X](https://x.com/novasiaestate)
 * **On-the-Ground Team & Real Estate Experts:** [NovAsia Team & Local Partners](https://novasia.estate/en/experts/)
-* **Our Research Paper:** [OSF Research]((https://osf.io/bf39h/overview))
+* **Our Research Paper:** [OSF Research](https://osf.io/bf39h/overview))
 ---
 
 ## License & Attribution
