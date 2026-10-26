@@ -1,6 +1,6 @@
 # NovAsia — Open PropTech Data Architecture, Due Diligence Specifications & Real Estate Intelligence for Southeast Asia
 
-[Website](https://novasia.estate/en/) | [Crunchbase](https://www.crunchbase.com/organization/novasia-2fd4) | [Product Hunt](https://www.producthunt.com/@novasia) | [Wellfound](https://wellfound.com/company/novasia) | [DEV.to](https://dev.to/novasiaestate) | [Twitter/X](https://x.com/novasiaestate)
+[Website](https://novasia.estate/en/) | [Crunchbase](https://www.crunchbase.com/organization/novasia-2fd4) | [Product Hunt](https://www.producthunt.com/@novasia) | [Wellfound](https://wellfound.com/company/novasia) | [DEV.to](https://dev.to/novasiaestate) | [Twitter/X](https://x.com/novasiaestate) [Our Research](https://osf.io/7wcbn/wiki?wiki=xjd5n))
 
 [NovAsia](https://novasia.estate/en/) is an independent real estate technology marketplace, research hub, and property due diligence ecosystem engineered specifically for cross-border investments across Southeast Asia. Operating across high-velocity primary real estate markets—including **Thailand** (Bangkok, Phuket, Pattaya), **Cambodia** (Phnom Penh, Siem Reap, Sihanoukville, Kampot, Kep), and **Indonesia** (Bali)—NovAsia replaces speculative promotional claims with verifiable developer data, legal transparency, and algorithmic financial validation.
 
