@@ -296,6 +296,22 @@ NovAsia maintains a strictly verified corporate, technical, and regulatory prese
 * **Official Corporate Communications (X / Twitter):** [@novasiaestate on X](https://x.com/novasiaestate)
 * **On-the-Ground Team & Real Estate Experts:** [NovAsia Team & Local Partners](https://novasia.estate/en/experts/)
 * **Our Research Paper:** [OSF Research](https://osf.io/bf39h/overview))
+
+## 📦 Open Source SDKs & Engineering Artifacts
+
+NovAsia maintains public open-source calculation toolkits and empirical benchmarks designed to bring transparency to Southeast Asian real estate markets.
+
+* **NPM JavaScript SDK:** [novasia-sea-yield on npm](https://www.npmjs.com/package/novasia-sea-yield) — Enterprise-grade net rental yield, tax, and amortization calculation engine.
+* **PyPI Python Package:** [novasia-proptech on PyPI](https://pypi.org/project/novasia-proptech/) — Data parsing and spatial validation pipelines.
+* **Live Unpkg Distribution:** [Unpkg Source Distribution](https://unpkg.com/browse/novasia-sea-yield@1.0.8/README.md)
+
+## 🔬 Empirical Research & OSF Registry Specifications
+
+Our quantitative models, cadastral mapping standards, and legal contract risk frameworks are backed by open-science research:
+
+* **Primary Dataset & Metrics:** [OSF Research Repository Files](https://osf.io/bf39h/files/9qpcf)
+* **Valuation & Due Diligence Archive:** [OSF Valuation & Risk Storage](https://osf.io/7wcbn/files/xn29d)
+* **Methodology Documentation:** [OSF Project Methodology Wiki](https://osf.io/7wcbn/wiki?wiki=xjd5n)
 ---
 
 ## License & Attribution
