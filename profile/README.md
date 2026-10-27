@@ -317,3 +317,20 @@ Our quantitative models, cadastral mapping standards, and legal contract risk fr
 ## License & Attribution
 
 Copyright © 2026 NovAsia. All technical documentation, Pydantic schemas, and spatial data pipeline specifications are provided for open PropTech collaboration under the [MIT License](https://opensource.org/licenses/MIT). Commercial property listings, developer agreements, and proprietary due diligence briefs remain the intellectual property of NovAsia and its licensed developer partners.
+
+
+## Try NovAsia Open Tools
+
+**[Open the live tools showcase](https://novasia-estate.github.io/open-tools/)** · **[Browse the source](https://github.com/novasia-estate/open-tools)**
+
+Practical, open-source browser utilities with local processing and downloadable results:
+
+| Tool | What you can do | Live demo |
+| --- | --- | --- |
+| Price & area normalizer | Normalize multilingual price text, convert area units and compare price per m². | [Try the normalizer](https://novasia-estate.github.io/open-tools/normalizer.html) |
+| Payment milestone planner | Split an amount by dates and percentages; export CSV or calendar events. | [Build a payment plan](https://novasia-estate.github.io/open-tools/payment-planner.html) |
+| CSV cleaner & deduplicator | Clean whitespace, inspect columns and remove exact duplicate rows. | [Clean a CSV](https://novasia-estate.github.io/open-tools/csv-cleaner.html) |
+
+No sign-up or input uploads. These tools are MIT licensed, with working examples and tests in the repository. They also suit data imports, renovation budgets and other planning tasks beyond property.
+
+For rental-income scenarios, try the [NovAsia SEA Yield calculator](https://podkopov-hub.github.io/southeast-asia-real-estate-analytics/) or install [novasia-sea-yield from npm](https://www.npmjs.com/package/novasia-sea-yield). Costs and tax assumptions are supplied by the user; the calculator does not provide statutory tax rates.
