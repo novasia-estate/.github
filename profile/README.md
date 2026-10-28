@@ -321,15 +321,15 @@ Copyright © 2026 NovAsia. All technical documentation, Pydantic schemas, and sp
 
 ## Try NovAsia Open Tools
 
-**[Open the live tools showcase](https://novasia-estate.github.io/open-tools/)** · **[Browse the source](https://github.com/novasia-estate/open-tools)**
+**[Open the live tools showcase](https://tools.novasia.estate/)** · **[Browse the source](https://github.com/novasia-estate/open-tools)**
 
 Practical, open-source browser utilities with local processing and downloadable results:
 
 | Tool | What you can do | Live demo |
 | --- | --- | --- |
-| Price & area normalizer | Normalize multilingual price text, convert area units and compare price per m². | [Try the normalizer](https://novasia-estate.github.io/open-tools/normalizer.html) |
-| Payment milestone planner | Split an amount by dates and percentages; export CSV or calendar events. | [Build a payment plan](https://novasia-estate.github.io/open-tools/payment-planner.html) |
-| CSV cleaner & deduplicator | Clean whitespace, inspect columns and remove exact duplicate rows. | [Clean a CSV](https://novasia-estate.github.io/open-tools/csv-cleaner.html) |
+| Price & area normalizer | Normalize multilingual price text, convert area units and compare price per m². | [Try the normalizer](https://tools.novasia.estate/normalizer.html) |
+| Payment milestone planner | Split an amount by dates and percentages; export CSV or calendar events. | [Build a payment plan](https://tools.novasia.estate/payment-planner.html) |
+| CSV cleaner & deduplicator | Clean whitespace, inspect columns and remove exact duplicate rows. | [Clean a CSV](https://tools.novasia.estate/csv-cleaner.html) |
 
 No sign-up or input uploads. These tools are MIT licensed, with working examples and tests in the repository. They also suit data imports, renovation budgets and other planning tasks beyond property.
 
